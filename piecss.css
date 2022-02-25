@@ -28,7 +28,8 @@ div.endpart{
     float: right;
 }
 
-ul.pieicon>p{
-    line-height: .3;
+ul.pieicon{
+    
+    list-style-image: url(./recipeImages/pie_icon.gif);
 }
 
