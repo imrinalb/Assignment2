@@ -28,3 +28,7 @@ div.endpart{
     float: right;
 }
 
+ul.pieicon>p{
+    line-height: .3;
+}
+
